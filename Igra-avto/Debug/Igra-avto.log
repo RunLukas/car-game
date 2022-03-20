@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\lukat\Desktop\Igra-avto\Igra-avto\Game.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lukat\Desktop\Igra-avto\Igra-avto\Game.cpp(251,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lukat\Desktop\Igra-avto\Igra-avto\Game.cpp(252,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lukat\Desktop\Igra-avto\Igra-avto\Game.cpp(253,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lukat\Desktop\Igra-avto\Igra-avto\Game.cpp(273,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lukat\Desktop\Igra-avto\Igra-avto\Game.cpp(273,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Igra-avto.cpp
+  Generating Code...
+  Igra-avto.vcxproj -> C:\Users\lukat\Desktop\Igra-avto\Debug\Igra-avto.exe
